@@ -13,7 +13,22 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/seekr-osint/seekr">
 </p>
 
-## Introduction
+## Contents
+[What is seekr?](https://github.com/Cute-Ducky/seekr/edit/main/README.md#what-is-seekr)
+
+[Why use seekr over my current tool?](https://github.com/Cute-Ducky/seekr/edit/main/README.md#why-use-seekr-over-my-current-tool)
+
+[Inatallation](https://github.com/Cute-Ducky/seekr/edit/main/README.md#installation)
+
+[Usage](https://github.com/Cute-Ducky/seekr/edit/main/README.md#usage)
+
+[Feedback](https://github.com/Cute-Ducky/seekr/edit/main/README.md#feedback)
+
+[Contact us](https://github.com/Cute-Ducky/seekr/edit/main/README.md#contact-us)
+
+[Legal Disclaimer](https://github.com/Cute-Ducky/seekr/edit/main/README.md#legal-disclaimer)
+
+## What is seekr?
 Seekr is a multi-purpose toolkit for gathering and managing OSINT-data with a sleek web interface. Our desktop view enables you to have all of your favourite OSINT tools integrated in one. The backend is written in Go with BadgerDB as database and it offers a wide range of features for data collection, organization, and analysis. Whether you're a researcher, investigator, or just someone looking to gather information, seekr makes it easy to find and manage the data you need. Give it a try and see how it can streamline your OSINT workflow!
 
 Check the wiki for setup guide, etc.
@@ -22,7 +37,7 @@ Check the wiki for setup guide, etc.
 <img width="800" src="https://user-images.githubusercontent.com/67828948/216688806-6cfd4344-e1b6-4a69-870c-ec8d2763c5b7.png">
 
 
-## Why use seekr over my current tool ?
+## Why use seekr over my current tool?
 Seekr combines note taking and OSINT in one application. Seekr can be used alongside your current tools.
 Seekr is desingned with OSINT in mind and optimized for real world usecases.
 ### Key features
@@ -36,7 +51,7 @@ Seekr is desingned with OSINT in mind and optimized for real world usecases.
 - Account discovery intigrating with the account cards
 - Pre defined commonly used fields in the database
 - Themes & Plugins
-## Getting Started - Installation
+## Installation
 ### Windows
 Download and run the latest exe [here](https://github.com/seekr-osint/seekr/releases/latest)
 
@@ -63,14 +78,14 @@ To run seekr on NixOS run following commands.
 nix shell github:seekr-osint/seekr
 seekr
 ```
+## Usage
 ## Feedback
 We would love to hear from you. Tell us about your opinions on seekr. Where do we need to improve?...
 You can do this by just opening up an issue or maybe even telling others in your blog or somewhere else about your experience.
-### Contact
+### Contact us
 You can contact us at **[seekr-osint@proton.me](mailto:seekr-osint@proton.me)**!
 ## Legal Disclaimer
 This tool is intended for legitimate and lawful use only. It is provided for educational and research purposes, and should not be used for any illegal or malicious activities, including doxxing. Doxxing is the practice of researching and broadcasting private or identifying information about an individual, without their consent and can be illegal. The creators and contributors of this tool will not be held responsible for any misuse or damage caused by this tool. By using this tool, you agree to use it only for lawful purposes and to comply with all applicable laws and regulations. It is the responsibility of the user to ensure compliance with all relevant laws and regulations in the jurisdiction in which they operate. Misuse of this tool may result in criminal and/or civil prosecution.
-### Contact
 For legal questions contact us at **[seekr-osint@proton.me](mailto:seekr-osint@proton.me)**!
 ## Thanks to
 [![Stargazers repo roster for @seekr-osint/seekr](https://reporoster.com/stars/seekr-osint/seekr)](https://github.com/seekr-osint/seekr/stargazers)
