@@ -53,16 +53,17 @@ Seekr is desingned with OSINT in mind and optimized for real world usecases.
 - Themes & Plugins
 ## Installation
 ### Windows
-Download and run the latest exe [here](https://github.com/seekr-osint/seekr/releases/latest)
+Download and run the latest exe from the [latest release](https://github.com/seekr-osint/seekr/releases/latest).
 
 Now open [the web interface](http://localhost:8569/web/) in your browser of choice.
 ### Docker
+Run the following commands in your terminal:
 ```sh
 docker pull ghcr.io/seekr-osint/seekr:latest
 docker run -p 8569:8569 ghcr.io/seekr-osint/seekr:latest
 ```
 ### Linux (stable)
-Download the latest stable binary [here](https://github.com/seekr-osint/seekr/releases/latest)
+Download the latest stable binary from the [latest release](https://github.com/seekr-osint/seekr/releases/latest).
 ### Linux (unstable)
 To install seekr on linux simply run:
 ```sh
