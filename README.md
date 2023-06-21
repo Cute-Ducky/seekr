@@ -62,10 +62,11 @@ Run the following commands in your terminal:
 docker pull ghcr.io/seekr-osint/seekr:latest
 docker run -p 8569:8569 ghcr.io/seekr-osint/seekr:latest
 ```
-### Linux (stable)
+### Linux
+#### Stable
 Download the latest stable binary from the [latest release](https://github.com/seekr-osint/seekr/releases/latest).
-### Linux (unstable)
-To install seekr on linux simply run:
+#### Unstable
+To install seekr (unstable) on linux simply run:
 ```sh
 git clone https://github.com/seekr-osint/seekr
 cd seekr
@@ -74,7 +75,7 @@ go run main.go
 Now open [the web interface](http://localhost:8569/web/) in your browser of choice.
 ### Run on NixOS
 Seekr is build with NixOS in mind and therefore supports nix flakes.
-To run seekr on NixOS run these commands.
+To run seekr on NixOS run these commands:
 ```sh
 nix shell github:seekr-osint/seekr
 seekr
