@@ -23,7 +23,7 @@
 * [Legal Disclaimer](#legal-disclaimer)
 
 ## What is seekr?
-Seekr is a multi-purpose toolkit for gathering and managing OSINT-data with a sleek web interface. Our desktop view enables you to have all of your favourite OSINT tools integrated in one. The backend is written in Go with BadgerDB as database and it offers a wide range of features for data collection, organization, and analysis. Whether you're a researcher, investigator, or just someone looking to gather information, seekr makes it easy to find and manage the data you need. Give it a try and see how it can streamline your OSINT workflow!
+Seekr is a multi-purpose toolkit for gathering and managing OSINT-data with a sleek web interface. Our desktop view enables you to have all of your favourite OSINT tools integrated in one. The backend is written in Go with BadgerDB as database and it offers a wide range of features for data collection, organization and analysis. Whether you're a researcher, investigator or just someone looking to gather information, seekr makes it easy to find and manage the data you need. Give it a try and see how it can streamline your OSINT workflow!
 
 Check the wiki for setup guide, etc.
 
@@ -75,6 +75,7 @@ nix shell github:seekr-osint/seekr
 seekr
 ```
 ## Usage
+Just open [the web interface](http://localhost:8569/web/) in your browser of choice.
 ## Feedback
 We would love to hear from you. Tell us about your opinions on seekr. Where do we need to improve?...
 You can do this by just opening up an issue or maybe even telling others in your blog or somewhere else about your experience.
