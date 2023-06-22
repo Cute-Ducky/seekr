@@ -13,20 +13,14 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/seekr-osint/seekr">
 </p>
 
-## Contents
-[What is seekr?](https://github.com/Cute-Ducky/seekr/edit/main/README.md#what-is-seekr)
-
-[Why use seekr over my current tool?](https://github.com/Cute-Ducky/seekr/edit/main/README.md#why-use-seekr-over-my-current-tool)
-
-[Inatallation](https://github.com/Cute-Ducky/seekr/edit/main/README.md#installation)
-
-[Usage](https://github.com/Cute-Ducky/seekr/edit/main/README.md#usage)
-
-[Feedback](https://github.com/Cute-Ducky/seekr/edit/main/README.md#feedback)
-
-[Contact us](https://github.com/Cute-Ducky/seekr/edit/main/README.md#contact-us)
-
-[Legal Disclaimer](https://github.com/Cute-Ducky/seekr/edit/main/README.md#legal-disclaimer)
+## Table of Contents
+* [What is seekr?](#what-is-seekr)
+* [Why use seekr over my current tool?](#why-use-seekr-over-my-current-tool)
+* [Inatallation](#installation)
+* [Usage](#usage)
+* [Feedback](#feedback)
+* [Contact us](#contact-us)
+* [Legal Disclaimer](#legal-disclaimer)
 
 ## What is seekr?
 Seekr is a multi-purpose toolkit for gathering and managing OSINT-data with a sleek web interface. Our desktop view enables you to have all of your favourite OSINT tools integrated in one. The backend is written in Go with BadgerDB as database and it offers a wide range of features for data collection, organization, and analysis. Whether you're a researcher, investigator, or just someone looking to gather information, seekr makes it easy to find and manage the data you need. Give it a try and see how it can streamline your OSINT workflow!
