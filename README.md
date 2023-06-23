@@ -14,13 +14,14 @@
 </p>
 
 ## Table of Contents
-* [What is seekr?](#what-is-seekr)
-* [Why use seekr over my current tool?](#why-use-seekr-over-my-current-tool)
-* [Inatallation](#installation)
-* [Usage](#usage)
-* [Feedback](#feedback)
-* [Contact us](#contact-us)
-* [Legal Disclaimer](#legal-disclaimer)
+- [What is seekr?](#what-is-seekr)
+- [Why use seekr over my current tool?](#why-use-seekr-over-my-current-tool)
+- [Key features](#key-features)
+- [Inatallation](#installation)
+- [Usage](#usage)
+- [Feedback](#feedback)
+- [Contact us](#contact-us)
+- [Legal Disclaimer](#legal-disclaimer)
 
 ## What is seekr?
 Seekr is a multi-purpose toolkit for gathering and managing OSINT-data with a sleek web interface. Our desktop view enables you to have all of your favourite OSINT tools integrated in one. The backend is written in Go with BadgerDB as database and it offers a wide range of features for data collection, organization and analysis. Whether you're a researcher, investigator or just someone looking to gather information, seekr makes it easy to find and manage the data you need. Give it a try and see how it can streamline your OSINT workflow!
@@ -34,7 +35,7 @@ Check the wiki for setup guide, etc.
 ## Why use seekr over my current tool?
 Seekr combines note taking and OSINT in one application. Seekr can be used alongside your current tools.
 Seekr is desingned with OSINT in mind and optimized for real world usecases.
-### Key features
+## Key features
 - **NO** api keys required for **all** features
 - Desktop interface
 - Database for OSINT targets
@@ -46,17 +47,17 @@ Seekr is desingned with OSINT in mind and optimized for real world usecases.
 - Pre defined commonly used fields in the database
 - Themes & Plugins
 ## Installation
-### Windows
+- ### Windows
 Download and run the latest exe from the [latest release](https://github.com/seekr-osint/seekr/releases/latest).
 
 Now open [the web interface](http://localhost:8569/web/) in your browser of choice.
-### Docker
+- ### Docker
 Run the following commands in your terminal:
 ```sh
 docker pull ghcr.io/seekr-osint/seekr:latest
 docker run -p 8569:8569 ghcr.io/seekr-osint/seekr:latest
 ```
-### Linux
+- ### Linux
 #### Stable
 Download the latest stable binary from the [latest release](https://github.com/seekr-osint/seekr/releases/latest).
 #### Unstable
@@ -67,7 +68,7 @@ cd seekr
 go run main.go
 ```
 Now open [the web interface](http://localhost:8569/web/) in your browser of choice.
-### Run on NixOS
+- ### Run on NixOS
 Seekr is build with NixOS in mind and therefore supports nix flakes.
 To run seekr on NixOS run these commands:
 ```sh
