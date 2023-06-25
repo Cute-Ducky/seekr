@@ -77,6 +77,8 @@ seekr
 ```
 ## Usage
 Just open [the web interface](http://localhost:8569/web/) in your browser of choice.
+Open the menu by pressing the button in the bottom left corner.
+Start any of the tools you want and rearrange them however you like!
 ## Feedback
 We would love to hear from you. Tell us about your opinions on seekr. Where do we need to improve?...
 You can do this by just opening up an issue or maybe even telling others in your blog or somewhere else about your experience.
