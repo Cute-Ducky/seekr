@@ -30,7 +30,7 @@ Check the wiki for setup guide, etc.
 
 
 <img width="800" src="https://github.com/Cute-Ducky/seekr/blob/main/images/seekr.gif">
-
+<img src="https://github.com/Cute-Ducky/seekr/blob/main/images/seekr-short.gif">
 
 ## Why use seekr over my current tool?
 Seekr combines note taking and OSINT in one application. Seekr can be used alongside your current tools.
