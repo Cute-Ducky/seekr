@@ -29,8 +29,6 @@ Seekr is a multi-purpose toolkit for gathering and managing OSINT-data with a sl
 Check the wiki for setup guide, etc.
 
 
-https://github.com/Cute-Ducky/seekr/assets/105547581/ee13ecb3-7ce5-4ad9-975f-72debca4408d
-https://github.com/Cute-Ducky/seekr/blob/main/images/Seekr.MOV
 <img width="800" src="https://github.com/Cute-Ducky/seekr/blob/main/images/seekr.gif">
 <img src="https://github.com/Cute-Ducky/seekr/blob/main/images/seekr-short.gif">
 
